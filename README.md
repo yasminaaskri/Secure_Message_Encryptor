@@ -42,7 +42,7 @@ python main.py
 
 The MySecrets window will appear. You can start by entering your message in the text area.
 
-###Encrypt Message:
+2-Encrypt Message:
 
 Enter your message in the "Enter your message" text area.
 
@@ -50,7 +50,7 @@ Enter the key 123456 in the "Enter your key" input box.
 
 Click the "ENCRYPT" button to encrypt the message. The encrypted message will be displayed in a new window.
 
-###Decrypt Message:
+3-Decrypt Message:
 
 Enter your encrypted message in the "Enter your message" text area.
 
@@ -58,7 +58,7 @@ Enter the key 123456 in the "Enter your key" input box.
 
 Click the "DECRYPT" button to decrypt the message. The decrypted message will be displayed in a new window.
 
-###Reset:
+4-Reset:
 
 Click the "RESET" button to clear the message and key input fields.
 
